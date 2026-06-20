@@ -5,5 +5,6 @@ int main() {
     int c=a+b;
     printf("%d",c);  
     printf("Hello World");
+    printf("Welcome to C programming");
     return 0;
 }
